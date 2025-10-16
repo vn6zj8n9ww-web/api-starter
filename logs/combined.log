@@ -1,0 +1,2 @@
+{"level":"info","message":"Hello from API-Starter","service":"api-starter"}
+{"level":"info","message":"::1 - - [16/Oct/2025:22:07:44 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36\"","service":"api-starter"}
